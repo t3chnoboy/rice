@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # A really hacked together script - I don't even understand it anymore
 # Rm9yayAhQm9tYnpaeUNBawo=
 

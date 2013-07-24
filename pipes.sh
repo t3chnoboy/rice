@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # This script is currently in the Public Domain
 
 # On ^C, bash may give an malloc/free error
